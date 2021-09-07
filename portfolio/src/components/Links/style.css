@@ -1,0 +1,12 @@
+links {
+    width: 100px;
+    padding: 10px;
+}
+
+links img {
+    max-width: 60px;
+}
+
+links img:not(:last-child) {
+    margin-right: 10px;
+}

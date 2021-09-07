@@ -1,0 +1,12 @@
+.about {
+    flex-grow: 1;
+}
+
+.about h1 {
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.about p {
+    font-size: 20px;
+}

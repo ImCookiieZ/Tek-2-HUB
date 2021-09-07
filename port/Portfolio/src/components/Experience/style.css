@@ -1,0 +1,13 @@
+.experience {
+    flex-grow: 1;
+}
+
+.experience h1 {
+    margin-bottom: 20px;
+}
+
+.experience embed {
+    margin-top: 50px;
+    width: 500px;
+    height: 500px;
+}
